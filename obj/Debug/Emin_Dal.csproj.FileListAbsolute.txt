@@ -1,0 +1,30 @@
+c:\users\mstfy\documents\visual studio 2015\Projects\Emin_Dal\Emin_Dal\bin\Debug\Emin_Dal.exe.config
+C:\Users\mstfy\documents\visual studio 2015\Projects\Emin_Dal\Emin_Dal\bin\Debug\Emin_Dal.exe
+C:\Users\mstfy\documents\visual studio 2015\Projects\Emin_Dal\Emin_Dal\bin\Debug\Emin_Dal.pdb
+C:\Users\mstfy\documents\visual studio 2015\Projects\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.csprojResolveAssemblyReference.cache
+C:\Users\mstfy\documents\visual studio 2015\Projects\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.Form1.resources
+C:\Users\mstfy\documents\visual studio 2015\Projects\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.Properties.Resources.resources
+C:\Users\mstfy\documents\visual studio 2015\Projects\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.csproj.GenerateResource.Cache
+C:\Users\mstfy\documents\visual studio 2015\Projects\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.exe
+C:\Users\mstfy\documents\visual studio 2015\Projects\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.pdb
+C:\Users\mstfy\documents\visual studio 2015\Projects\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.Kullanıcı_Ekle.resources
+C:\Users\mstfy\documents\visual studio 2015\Projects\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.Yönetici_Ekle.resources
+C:\Users\mstfy\documents\visual studio 2015\Projects\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.Yönetici_Ekranı.resources
+C:\Users\mstfy\documents\visual studio 2015\Projects\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.Kullanıcı_Ekranı.resources
+C:\Users\mstfy\Documents\Visual Studio 2015\Projects\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.İş_Dağılımı.resources
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\bin\Debug\Emin_Dal.exe.config
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\bin\Debug\Emin_Dal.exe
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\bin\Debug\Emin_Dal.pdb
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.csproj.AssemblyReference.cache
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.csproj.SuggestedBindingRedirects.cache
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.Form1.resources
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.Kullanıcı_Ekle.resources
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.Kullanıcı_Ekranı.resources
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.Properties.Resources.resources
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.Yönetici_Ekle.resources
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.Yönetici_Ekranı.resources
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.İş_Dağılımı.resources
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.csproj.GenerateResource.cache
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.csproj.CoreCompileInputs.cache
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.exe
+C:\Users\emino\Downloads\Emin_Dal (2)\Emin_Dal\Emin_Dal\obj\Debug\Emin_Dal.pdb
